@@ -1,6 +1,4 @@
-<div align='center'> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen' height='150px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact' height='150px'/> </div>
-<!--
-<table>
+<div><table>
   <tr>
     <td align='center'>분류</td>
     <td align='center'>상세</td>
@@ -10,26 +8,27 @@
   <tr>
     <td align='center'>UNIV</td>
     <td align='center'>아주대학교 소프트웨어학과</td>
-    <td align='center'>17.03.01 - </td>
+    <td>17.03.01 - </td>
     <td></td>
   </tr>
   <tr>
     <td align='center'>ARMY</td>
     <td align='center'>국군지휘통신사령부 SW개발병</td>
-    <td align='center'>19.07.11 - 20.12.29</td>
-    <td><a href='https://github.com/osamhack2020/WEB_KookbangFriends_Woowahan'> 오픈소스SW 아카데미 </a> (과학기술정보통신부장관상)</td>
+    <td>19.07.11 - 20.12.29</td>
+    <td><a href='https://github.com/osamhack2020/WEB_KookbangFriends_Woowahan'> 오픈소스SW 아카데미</a> (과학기술정보통신부장관상)</td>
   </tr>
   <tr>
     <td align='center'>INTERN</td>
-    <td align='center'>에이엄 동계 인턴십</td>
-    <td align='center'>20.12.30 - 21.02.26</td>
-    <td> Python, Sklearn, Yolov5 </td>
+    <td align='center'>에이엄 인턴십</td>
+    <td>20.12.30 - 21.02.26</td>
+    <td> Python, Sklearn, Yolov5, Riot API </td>
   </tr>
   <tr>
-    <td align='center'></td>
-    <td align='center'>SW Maestro</td>
-    <td align='center'>21.04 - </td>
-    <td><a href='https://github.com/LiiNen/swm12_chatbot_team6'> Mini Project </a><br><a href='https://github.com/O-Seonsik/SWM-stop-pigeon'> Hackaton </a></td>
+    <td align='center'>EXTRA</td>
+    <td align='center'>SW Maestro 12th</td>
+    <td>21.04 - </td>
+    <td><a href='https://github.com/LiiNen/swm12_chatbot_team6'> Mini Project</a> (kakaowork chatbot)<br><a href='https://github.com/O-Seonsik/SWM-stop-pigeon'> Hackaton</a> (react.js with kakaomap api)</td>
   </tr>
-</table>
--->
+</table></div>
+
+<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen' height='180px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact' height='180px'/> </div>
