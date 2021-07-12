@@ -27,8 +27,8 @@
     <td align='center'>EXTRA</td>
     <td align='center'>SW Maestro 12th</td>
     <td>21.04 - </td>
-    <td><a href='https://github.com/LiiNen/swm12_chatbot_team6'> Mini Project</a> (kakaowork chatbot)<br><a href='https://github.com/O-Seonsik/SWM-stop-pigeon'> Hackaton</a> (react.js with kakaomap api)</td>
+    <td><a href='https://github.com/LiiNen/swm12_chatbot_team6'> Mini Project</a> (Kakaowork chatbot)<br><a href='https://github.com/O-Seonsik/SWM-stop-pigeon'> Hackaton</a> (react.js with Kakaomap api)</td>
   </tr>
 </table></div>
 
-<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen' height='180px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact' height='180px'/> </div>
+<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact' height='175px'/> </div>
