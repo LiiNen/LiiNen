@@ -32,3 +32,12 @@
 </table></div>
 
 <div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen&count_private=true&show_icons=true' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact&langs_count=6' height='175px'/> </div>
+
+<!-- https://simpleicons.org -->
+<div align='center'>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=FLUTTER&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=SWIFT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
+</div>
