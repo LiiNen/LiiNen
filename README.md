@@ -35,9 +35,20 @@
 
 <!-- https://simpleicons.org -->
 <div align='center'>
+  <img src="https://img.shields.io/badge/macOS 11.4-000000?style=flat-square&logo=MACOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=WINDOWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=UBUNTU&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=FLUTTER&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=SWIFT&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=ANDROIDSTUDIO&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=XCODE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VISUALSTUDIOCODE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=VIM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=JUPYTER&logoColor=white"/>
+  <br>
 </div>
