@@ -31,7 +31,7 @@
   </tr>
 </table></div>
 
-<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen&count_private=true&show_icons=true' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact&langs_count=6' height='175px'/> </div>
+<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen&count_private=true&show_icons=true' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact&langs_count=6&exclude_repo=karaoke_crawler' height='175px'/> </div>
 
 <!-- https://simpleicons.org -->
 <div align='center'>
