@@ -31,7 +31,7 @@
   </tr>
 </table></div>
 
-<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen&count_private=true&show_icons=true' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact&langs_count=6' height='175px'/> </div>
+<div> <img src='https://github-readme-stats.vercel.app/api?username=LiiNen&count_private=true&show_icons=true' height='175px'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Liinen&layout=compact&langs_count=6&exclude_repo=karaoke_crawler' height='175px'/> </div>
 
 <!-- https://simpleicons.org -->
 <div align='center'>
@@ -39,11 +39,20 @@
   <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=WINDOWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=UBUNTU&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=FLUTTER&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=SWIFT&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-3776AB?style=flat&logo=MYSQL&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=FLUTTER&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=REACT&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=NODE.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=EXPRESS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat&logo=Scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=SPRING&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=ANDROIDSTUDIO&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=XCODE&logoColor=white"/>
