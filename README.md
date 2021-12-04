@@ -24,9 +24,9 @@
     <td> Python, Sklearn, Yolov5, Riot API </td>
   </tr>
   <tr>
-    <td align='center'>EXTRA</td>
+    <td align='center'>ACTIVITY</td>
     <td align='center'>SW Maestro 12th</td>
-    <td>21.04.05 - </td>
+    <td>21.04.05 - 21.12.16</td>
     <td><a href='https://github.com/LiiNen/swm12_chatbot_team6'> Mini Project</a> (Kakaowork chatbot)<br><a href='https://github.com/O-Seonsik/SWM-stop-pigeon'> Hackaton</a> (react.js with Kakaomap api)</td>
   </tr>
 </table></div>
@@ -40,11 +40,11 @@
   <img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=UBUNTU&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=SWIFT&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=SWIFT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=PYTHON&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-3776AB?style=flat&logo=MYSQL&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=FLUTTER&logoColor=white"/>
