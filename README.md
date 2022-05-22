@@ -12,6 +12,12 @@
     <td></td>
   </tr>
   <tr>
+    <td align='center'>ACTIVITY</td>
+    <td align='center'>SW Maestro Expert</td>
+    <td>Jun 2022 - </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align='center'>DISCHARGE</td>
     <td align='center'>ROKDCC SW Dev. Department</td>
     <td align='center'>Jul 2019 - Dec 2020</td>
